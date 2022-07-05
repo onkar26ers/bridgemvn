@@ -1,4 +1,4 @@
-package com.demo;
+package io.github.onkar26ers.bridgemvn;
 
 public class OmkarBridge
 {
